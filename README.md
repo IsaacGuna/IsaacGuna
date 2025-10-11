@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Isaac Gunananth
 
-<!--
-**IsaacGuna/IsaacGuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSci Computer Science student at King’s College London**  
+💡 Passionate about AI, software engineering, and problem-solving through data-driven and user-centered design.  
+🌍 Based in London
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m an aspiring computer scientist with a strong interest in building impactful technology.  
+My work blends analytical thinking, creativity, and collaboration. I enjoy learning through real-world challenges and developing tools that improve and change lives tangibly.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations, research opportunities, or simply to chat about tech and innovation!  
+
+📧 [isaacgunananth@gmail.com](mailto:isaacgunananth@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/isaac-sg)
