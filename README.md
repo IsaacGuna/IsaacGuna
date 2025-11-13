@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I’m an aspiring computer scientist with a strong interest in building impactful technology. I designed and developed SchoolNav, a full-stack navigation application that helps users find their way around large and complex buildings. View my documentation for the app (https://github.com/IsaacGuna/SchoolNav/raw/main/SchoolNav_Documentation_Report%20(2).pdf)).
+I’m an aspiring computer scientist with a strong interest in building impactful technology. I designed and developed SchoolNav, a full-stack navigation application that helps users find their way around large and complex buildings. View my documentation for the app [download](https://github.com/IsaacGuna/SchoolNav/raw/main/SchoolNav_Documentation_Report%20(2).pdf).
 
 The idea came from recognising how difficult it can be to navigate such spaces—especially for wheelchair users, who often can’t take the same routes as others. SchoolNav addresses this by providing routes that prioritise accessible paths (e.g., ramps) to the user’s chosen destination.
 
